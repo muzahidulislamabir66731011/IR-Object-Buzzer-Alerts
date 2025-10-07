@@ -4,7 +4,6 @@
 ![](https://img.shields.io/badge/Code-25_Lines-00ff00?style=flat-square)
 ![](https://img.shields.io/badge/License-MIT-97CA00?style=flat-square&logo=opensourceinitiative)
 
-[![Live Demo](https://img.shields.io/badge/Serial-Monitor-Live-ff6600?style=flat-square&logo=serial)](https://muzahidulislamabir66731011.github.io/IR-Object-Buzzer-Alerts/)
 
 
 ## ⚡ What it does
