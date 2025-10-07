@@ -5,6 +5,10 @@
 ![](https://img.shields.io/badge/License-MIT-97CA00?style=flat-square&logo=opensourceinitiative)
 
 
+![](https://img.shields.io/badge/Arduino-IDE-blue?style=for-the-badge&logo=arduino)
+![](https://img.shields.io/badge/ESP32-Compatible-ff0000?style=for-the-badge&logo=espressif)
+![](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![](https://img.shields.io/badge/Code-20_Lines-00ff00?style=for-the-badge)
 
 ## ⚡ What it does
 - Reads digital IR proximity sensor every 100 ms  
